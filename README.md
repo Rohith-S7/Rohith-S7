@@ -19,9 +19,9 @@ As a recent Masters graduate in Data Science, I am looking for a role that will 
 ---
 
 ## Professional Highlights 🌟
-- **Data Science Intern** - *Sakhatech Information Systems Pvt Ltd* (September two thousand twenty-three to July two thousand twenty-four)  
-- **Data Scientist** - *TECHPRAGNA Pvt Ltd* (March two thousand twenty-two to September two thousand twenty-two)  
-- **Programmer Analyst** - *Conexus Software Solutions Pvt Ltd* (October two thousand twenty-one to March two thousand twenty-two)  
+- **Data Science Intern** - *Sakhatech Information Systems Pvt Ltd* (09/2023 - 07/2024)   
+- **Data Scientist** - *TECHPRAGNA Pvt Ltd* (03/2022 - 09/2022)  
+- **Programmer Analyst** - *Conexus Software Solutions Pvt Ltd* (10/2021 - 03/2022)
 
 ---
 
