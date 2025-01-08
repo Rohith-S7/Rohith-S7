@@ -1,4 +1,4 @@
-<div><img align="right" alt="AI" height="250" width="1200" src="https://raw.githubusercontent.com/Rohith-S7/Rohith/main/download1.jpeg">
+<div><img align="right" alt="AI" height="250" width="1200" src="https://raw.githubusercontent.com/Rohith-S7/Rohith-S7/main/download1.jpeg">
 </div>
 
 <h1 align="center">Hi 👋, I'm Rohith S</h1>
