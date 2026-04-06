@@ -7,10 +7,23 @@
 
 ---
 
-## About Me 🌐
-As a recent Masters graduate in Data Science, I am looking for a role that will allow me to apply my academic knowledge and practical abilities earned via internships and coursework. I have one point five years' experience in Data Science and have successfully completed full-stack data science projects. Gained practical experience using machine learning, deep learning, and transfer learning models to address complex business challenges.  
-
+##👋Hello and Welcome to My Profile!
+I'm an experienced Data Scientist skilled in building and maintaining complex systems. With over 1.5 years of experience in the tech industry, I specialize majorly in Artificial Intelligence, GEN-AI, LLMs, RAG, Automatic Speech Recognition (ASR), Text-to-Speech (TTS),Natural Language Processing (NLP) and ML.
 ---
+##What I Do
+In addition to my core competencies, I am deeply involved in the cutting-edge domain of Large Language Models (LLMs) and General Al technologies. My expertise extends to customizing and fine-tuning these models to tailor them to specific business needs and use cases. This includes developing bespoke solutions that leverage the power of LLMs to enhance understanding, generate insightful content, and automate complex processes. By integrating advanced Al models with traditional data science techniques, I deliver innovative solutions that drive efficiency, accuracy, and creativity.
+
+Artificial Intelligence: I specialize in the deployment and development of advanced LLMs and Retrieval-Augmented Generation (RAG)
+systems. Passionate about pushing the boundaries of Generative Al (GEN Al) to solve complex challenges and enhance question-answering capabilities. With hands-on experience in implementing state-of-the-art models like Mistral, Llama2, and various open-source LLMs.
+
+Machine Learning: I have hands-on experience in developing and deploying machine learning models for ASR, TTS, Face Recognition, and OCR. Designed and developed Conversational Chatbots using RASA Framework on custom data and later integrated with LLM to keep a singular flow.
+
+Web Development: Proficient in back-end development, I have created multiple web applications using Flask and Django frameworks.
+
+Database Management: Adept/in database management, I have experience working with MySQL, PostgreSQL, and Big Data technologies.
+
+Data Visualization & Reporting: Utilizing tools like Tableau and Power
+BI, I have crafted data-driven narratives that provide actionable insights.
 
 ## Education 🎓
 - **Masters in Data Science** - *Manipal Institute of Technology*  
