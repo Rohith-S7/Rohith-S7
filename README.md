@@ -8,9 +8,10 @@
 ---
 
 ##👋Hello and Welcome to My Profile!
+
 I'm an experienced Data Scientist skilled in building and maintaining complex systems. With over 1.5 years of experience in the tech industry, I specialize majorly in Artificial Intelligence, GEN-AI, LLMs, RAG, Automatic Speech Recognition (ASR), Text-to-Speech (TTS),Natural Language Processing (NLP) and ML.
 ---
-##What I Do
+## What I Do 
 
 In addition to my core competencies, I am deeply involved in the cutting-edge domain of Large Language Models (LLMs) and General Al technologies. My expertise extends to customizing and fine-tuning these models to tailor them to specific business needs and use cases. This includes developing bespoke solutions that leverage the power of LLMs to enhance understanding, generate insightful content, and automate complex processes. By integrating advanced Al models with traditional data science techniques, I deliver innovative solutions that drive efficiency, accuracy, and creativity.
 
